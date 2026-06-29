@@ -4,20 +4,12 @@
 
 ### Minecraft Server Developer • Java Developer • Open Source Enthusiast
 
-Building scalable Minecraft server ecosystems with a focus on performance, maintainability, and immersive gameplay.
-
-<br>
+Building high-performance Minecraft server ecosystems with Java, Paper, Purpur, and modern development practices.
 
 <p>
-  <a href="https://github.com/reiiap">
     <img src="https://komarev.com/ghpvc/?username=reiiap&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/reiiap?tab=followers">
     <img src="https://img.shields.io/github/followers/reiiap?label=Followers&style=flat&color=blue" />
-  </a>
-  <a href="https://github.com/reiiap">
     <img src="https://img.shields.io/github/stars/reiiap?affiliations=OWNER&style=flat&color=yellow" />
-  </a>
 </p>
 
 </div>
@@ -26,78 +18,81 @@ Building scalable Minecraft server ecosystems with a focus on performance, maint
 
 # 💫 About Me
 
-I'm an Indonesian developer focused on creating modern Minecraft server experiences.
+I'm an Indonesian developer specializing in Minecraft server development.
 
-I specialize in building high-performance server infrastructures, developing Java plugins, optimizing resource packs, and integrating advanced gameplay systems for Paper and Purpur servers.
+I focus on creating scalable, optimized, and immersive multiplayer experiences by combining Java development, custom plugins, resource packs, and server infrastructure.
 
-My goal is to create scalable, optimized, and enjoyable multiplayer environments while contributing to open-source projects.
+My interests include:
+
+- Java Plugin Development
+- Paper & Purpur Optimization
+- Resource Pack Engineering
+- MythicMobs & ModelEngine
+- ItemsAdder Integration
+- Linux Server Administration
+- Open Source Development
 
 ---
 
 # 🚀 Current Focus
 
-- Minecraft Server Development
-- Java Plugin Development
-- Paper & Purpur Optimization
-- ItemsAdder Integration
-- MythicMobs Development
-- ModelEngine Systems
-- Resource Pack Engineering
-- Linux Server Administration
-- Git & CI/CD Workflow
+- ⚡ Minecraft Server Infrastructure
+- 🔧 Java Plugin Development
+- 📦 Resource Pack Optimization
+- 🎮 RPG Gameplay Systems
+- ☁ Linux & VPS Management
+- 🔥 Performance Optimization
 
 ---
 
 # 🛠 Languages & Tools
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,maven,gradle,git,github,linux,bash,vscode,idea,discord,docker"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,maven,gradle,git,github,linux,bash,docker,idea,vscode"/>
 
 </p>
 
 ---
 
-# ⚡ Minecraft Technologies
-
-- PaperMC
-- Purpur
-- Velocity
-- Folia
-- MythicMobs
-- ModelEngine
-- ItemsAdder
-- DeluxeMenus
-- PlaceholderAPI
-- ProtocolLib
-- LuckPerms
-- Skript
-- MMOItems
-- WorldEdit
-- WorldGuard
-- Vault
-
----
-
-# 📈 GitHub Statistics
+# ⛏ Minecraft Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=reiiap&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reiiap&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reiiap&theme=github-dark-blue&hide_border=true"/>
+<img src="https://img.shields.io/badge/PaperMC-white?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Purpur-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Velocity-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Folia-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MythicMobs-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ModelEngine-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ItemsAdder-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ProtocolLib-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LuckPerms-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PlaceholderAPI-success?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📊 Activity Graph
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=reiiap&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reiiap&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=reiiap&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -107,32 +102,24 @@ My goal is to create scalable, optimized, and enjoyable multiplayer environments
 
 ---
 
-# 📂 Featured Projects
+# 🏆 GitHub Trophy
 
-### Minecraft Development
+<p align="center">
 
-🔹 Custom Java Plugins
+<img src="https://github-profile-trophy.vercel.app/?username=reiiap&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
-🔹 Resource Pack Engineering
-
-🔹 RPG Systems
-
-🔹 Custom Items & Models
-
-🔹 Performance Optimization
-
-🔹 Server Infrastructure
+</p>
 
 ---
 
 # 💻 Development Philosophy
 
 ```java
-public class Developer {
+public class Reii {
 
     public static void main(String[] args) {
 
-        while(true){
+        while (true) {
 
             Learn();
 
@@ -140,7 +127,7 @@ public class Developer {
 
             Optimize();
 
-            Share();
+            Repeat();
 
         }
 
@@ -148,6 +135,22 @@ public class Developer {
 
 }
 ```
+
+---
+
+# 📂 Featured Areas
+
+### Minecraft Development
+
+- Java Plugins
+- Paper API
+- Purpur
+- Resource Packs
+- Custom Models
+- RPG Systems
+- Performance Optimization
+- Linux Deployment
+- Server Infrastructure
 
 ---
 
